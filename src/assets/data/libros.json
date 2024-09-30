@@ -1,0 +1,39 @@
+{
+  "libros": [
+  {
+    "autor": "F. Scott Fitzgerald",
+    "libro": "El gran Gatsby",
+    "publicacion": "1925",
+    "imagen": "https://cdn.prod.website-files.com/6034d7d1f3e0f52c50b2adee/625428ec261ac384603ebab3_609ab57f2f76e83b56daaf5c_9788418395185_web.jpeg",
+    "id": 1
+  },
+  {
+    "autor": "Harper Lee",
+    "libro": "Matar a un ruiseñor",
+    "publicacion": "1960",
+    "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.buscalibre.ec%2Flibro-matar-a-un-ruisenor%2F9788417216948%2Fp%2F53130848&psig=AOvVaw39guYh5BD0vEjCkvaWhTmO&ust=1727762635017000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCp48T_6YgDFQAAAAAdAAAAABAE",
+    "id": 2
+  },
+  {
+    "autor": "Mark Twain",
+    "libro": "Las aventuras de Tom Sawyer",
+    "publicacion": "1876",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoskJMxy1MccDA2SbgLyukleaHWiLvCGuDsA&s",
+    "id": 3
+  },
+  {
+    "autor": "J.R.R. Tolkien",
+    "libro": "El Hobbit",
+    "publicacion": "1937",
+    "imagen": "https://librosobrelibro.com/wp-content/uploads/2021/01/9788445000656.jpg",
+    "id": 4
+  },
+  {
+    "autor": "Gabriel García Márquez",
+    "libro": "El amor en los tiempos del cólera",
+    "publicacion": "1985",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkbc_KkrzkcHoqgDgKzoRALFP7xHpGvmmZA&s",
+    "id": 5
+  }
+]
+}
